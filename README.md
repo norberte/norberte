@@ -1,10 +1,7 @@
-<!--
-**norberte/norberte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋
   
 #### I'm a Data Scientist working in Ottawa, Canada.
-<!-- - 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... !-->
 
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
 - 🏫 I was a Graduate Researcher & Teaching Assistant at Carleton University and a member of the [Software Analytics](http://olgabaysal.com/students.html) research lab.
