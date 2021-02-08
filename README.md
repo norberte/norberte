@@ -1,10 +1,10 @@
 ### Hi there 👋
   
 #### I'm a Data Scientist working in Ottawa, Canada.
-<!-- - 🔭 I’m currently working on ... !-->
 
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
-- 🏫 I was a Graduate Researcher & Teaching Assistant at Carleton University and a member of the [Software Analytics](http://olgabaysal.com/students.html) research lab.
+- 🔭 I am currently working in Health Canada's Data Analytics and Reporting Team (DART) in the Regulatory Operations and Enforcement Branch.
+- 🏫 Previously, I was a Graduate Researcher & Teaching Assistant at Carleton University and a member of the [Software Analytics](http://olgabaysal.com/students.html) research lab.
 - 🏢 Previously, I was working with the [DAC team](https://nrc.canada.ca/en/research-development/nrc-facilities/data-analytics-centre-research-facility) at the National Research Council Canada.
 - 🎓 M.Sc. with Specialization in Data Science from Carleton University.
 - 🎓 B.Sc. Honours in Computer Science, Minor in Data Science from the University of British Columbia Okanagan.
