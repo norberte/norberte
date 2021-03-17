@@ -3,7 +3,7 @@
 #### I'm a Data Scientist working in Ottawa, Canada.
 
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
-- 🔭 I am currently working in Health Canada's Data Analytics and Reporting Team (DART) in the Regulatory Operations and Enforcement Branch.
+- 🔭 Currently, I work as a Data Scientist in Health Canada's [Compliance and Risk Management Strategies](http://www.goc411.ca/en/367753/Norbert-Eke) group, in the Regulatory Operations and Enforcement Branch (ROEB).
 - 🏫 Previously, I was a Graduate Researcher & Teaching Assistant at Carleton University and a member of the [Software Analytics](http://olgabaysal.com/students.html) research lab.
 - 🏢 Previously, I was working with the [DAC team](https://nrc.canada.ca/en/research-development/nrc-facilities/data-analytics-centre-research-facility) at the National Research Council Canada.
 - 🎓 M.Sc. with Specialization in Data Science from Carleton University.
