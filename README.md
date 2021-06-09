@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-#### I'm a Data Scientist working in Ottawa, Canada.
+#### I'm a Data Scientist working in Zürich, Switzerland.
 
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
 - 🔭 Currently, I work as a Data Scientist in Health Canada's [Compliance and Risk Management Strategies](http://www.goc411.ca/en/367753/Norbert-Eke) group, in the Regulatory Operations and Enforcement Branch (ROEB).
