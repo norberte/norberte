@@ -3,8 +3,9 @@
 #### I'm a Data Scientist working in Zürich, Switzerland.
 
 - 😄 I am an enthusiastic, intellectually curious, data-driven & goal-oriented continuous learner with problem-solving strengths in machine learning and data analysis.
-- 🔭 Currently I work as a Data Scientist at [Migros Online](https://shop.migros.ch/en/supermarket/home), where I model customer lifetime values and detect at-risk-of-churning customers.
-- 🔭 Previously, I worked as a Data Scientist in Health Canada's [Compliance and Risk Management Strategies](http://www.goc411.ca/en/367753/Norbert-Eke) group, in the Regulatory Operations and Enforcement Branch (ROEB).
+- 🔭 Currently I work as a Data Scientist at [EF Educational Tours](https://www.eftours.com/), where I build product recommenders and work with RAGs and LLMs for question answering and providing custom recommendations.
+- 🔭 Previously, I worked as a Data Scientist at [Migros Online](https://www.migros.ch/en), where I built models for customer lifetime value and detected at-risk-of-churning customers.
+- 🔭 Before that I worked as a Data Scientist in Health Canada's [Compliance and Risk Management Strategies](http://www.goc411.ca/en/367753/Norbert-Eke) group, in the Regulatory Operations and Enforcement Branch (ROEB).
 - 🏫 Previously, I was a Graduate Researcher & Teaching Assistant at Carleton University and a member of the [Software Analytics](http://olgabaysal.com/students.html) research lab.
 - 🎓 M.Sc. with Specialization in Data Science from Carleton University.
 - 🎓 B.Sc. Honours in Computer Science, Minor in Data Science from the University of British Columbia Okanagan.
